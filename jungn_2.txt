@@ -1,0 +1,11 @@
+board 5 5 
+rows 1 2 1 2 1
+cols 2 0 3 0 2
+submarine
+submarine
+submarine
+submarine
+submarine
+submarine
+submarine
+constraint 2 2 o
