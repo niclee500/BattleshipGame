@@ -1,1 +1,1 @@
-[OSI] (https://opensource.org)
+[OSI](https://opensource.org)
